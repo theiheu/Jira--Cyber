@@ -10,8 +10,6 @@ import {
   FileAddOutlined,
   FileTextOutlined,
   SnippetsOutlined,
-  UsergroupAddOutlined,
-  UserOutlined,
 } from "@ant-design/icons";
 import { Menu } from "antd";
 import Sider from "antd/lib/layout/Sider";

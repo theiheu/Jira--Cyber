@@ -116,19 +116,19 @@ h6 {
   background-color: #fffaf0;
 }
 .project-sidebar .ant-menu-inline .ant-menu-item::after {
-  border-color: #ed8936;
+  border-color: #c2ed36;
 }
 .project-sidebar .ant-menu-item-selected,
 .project-sidebar .ant-menu-light .ant-menu-item-active {
-  color: #ed8936;
+  color: #36ed4b;
 }
 .project-sidebar .ant-menu-light .ant-menu-item:hover,
 .project-sidebar .ant-menu-item a:hover {
-  color: #ed8936;
+  color: #36ed4b;
 }
 .project-sidebar .ant-menu-item-selected a,
 .project-sidebar .ant-menu-item-selected a:hover {
-  color: #ed8936;
+  color: #36ed4b;
 }
 /* END Sidebar */
 
@@ -139,7 +139,7 @@ h6 {
   .ant-table-row:hover
   .ant-table-cell
   .projectName {
-  color: #f56565;
+  color: #caf565;
 }
 .ant-btn.btn-delete-cancel,
 .ant-btn.btn-delete-cancel {

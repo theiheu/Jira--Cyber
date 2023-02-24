@@ -125,13 +125,6 @@ const PROJECT_SERVICE = {
     );
     return data;
   },
-  deleteMember: async (projectId: number, userId: number) => {
-    let { data } = await AXIOS_INSTANCE_GENERATOR(BASE_PROJECT_URL).post(
-      `/removeUserFromProject`,
-      { projectId, userId }
-    );
-    return data;
-  },
 };
 
 export default PROJECT_SERVICE;
