@@ -27,7 +27,7 @@ Bất cứ khi nào có câu hỏi đều có thể sẵn sàng trả lời đư
 **4. Nếu được sắp vào khung giờ cố định thì công việc chính của bạn có ảnh hưởng đến việc mentor hay không ví dụ như OT ...**
 
 **Trả lời:**
-Bây giờ em chưa có công việc chính nhưng nếu công việc chính được sắp xếp khung giờ cố định thì em nghĩ là có anh hưởng tới việc mentor.
+Bây giờ em chưa có công việc chính nhưng nếu công việc chính được sắp xếp khung giờ cố định thì em nghĩ là có ảnh hưởng tới việc mentor.
 
 **5. Tại sao bạn apply công việc này ?**
 **Trả lời:**
