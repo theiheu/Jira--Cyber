@@ -51,7 +51,7 @@ const RegisterForm = ({ layout = "horizontal", size = "large" }: FormProps) => {
       size={size}
       initialValues={{
         email: "abc123@g.co",
-        name: "dev đẹp chai lái mái bai",
+        name: "name",
         passWord: "abc123",
         confirmPassword: "abc123",
         phoneNumber: "012465798",
@@ -85,10 +85,6 @@ const RegisterForm = ({ layout = "horizontal", size = "large" }: FormProps) => {
             required: true,
             message: "Please do not leave ${name} empty",
           },
-          // {
-          //   pattern: /^[A-Za-z\s]*$/i,
-          //   message: "${name} only accepts text, and char. Please input again.",
-          // },
         ]}
       >
         <Input prefix={<IdcardOutlined />} placeholder="John Doe" />
@@ -161,7 +157,7 @@ const RegisterForm = ({ layout = "horizontal", size = "large" }: FormProps) => {
         <Button
           type="primary"
           htmlType="submit"
-          className="register-form-button mt-3 text-lg font-semibold"
+          className="register-form-button mt-3 text-lg font-semibold rounded-md float-right"
         >
           Register Now
         </Button>

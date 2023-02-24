@@ -18,9 +18,6 @@ const LoginPage = () => {
             "max-w-xl mx-auto"
           )}
         >
-          <h2 className="title font-bold uppercase tracking-wide text-center sm:text-5xl md:text-4xl text-4xl text-pickled-bluewood-600">
-            Welcome to JIRA
-          </h2>
           <div className="content w-full max-w-md bg-pickled-bluewood-300/10 rounded-xl">
             <div className="form-wrapper py-8 px-9">
               <div className="form-header mb-8 last:mb-0">
@@ -29,12 +26,6 @@ const LoginPage = () => {
                 </h3>
               </div>
               <div className="form-body mb-8">
-                <div className="sso-wrapper mb-5 flex items-center justify-center">
-                  <Button className="border border-solid rounded-2xl bg-science-blue-700 text-white p-4 h-11 flex items-center justify-center">
-                    Sign in with facebook
-                  </Button>
-                </div>
-
                 <LoginForm layout="vertical" size="large" />
               </div>
               <div className="form-footer flex items-center justify-center text-lg">
